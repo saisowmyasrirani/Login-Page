@@ -10,8 +10,8 @@ function hid()
 }
 function auth()
 {
-    var password="123"
-    var email="rama@gmail.com"
+    var password="Sri@2209"
+    var email="saisowmyasri@gmail.com"
     var userpass=document.getElementById("a").value
     var useremail=document.getElementById("email").value
     if(useremail==email && userpass==password)
